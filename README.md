@@ -8,6 +8,7 @@ This project utilizes the use of the following tools for training the model:
 
 ## Data Source 
 The dataset implemented for this project is the **IIT Bombay English-Hindi Parallel Corpus** (v2.0), containing sentence pair and their corresponding translations 
+https://object.pouta.csc.fi/OPUS-IITB/v2.0/moses/en-hi.txt.zip
 
 ## Corpus Information 
 
