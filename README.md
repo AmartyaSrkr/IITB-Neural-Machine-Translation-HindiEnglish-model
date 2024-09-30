@@ -22,7 +22,10 @@ This corpus has been utilized in various workshops, including the Workshop on As
 
 ### Citation
 
-Anoop Kunchukuttan, Pratik Mehta, Pushpak Bhattacharyya. [The IIT Bombay English-Hindi Parallel Corpus](https://www.cfilt.iitb.ac.in/~moses/iitb_en_hi_parallel/lrec2018_iitbparallel.pdf). Language Resources and Evaluation Conference, 2018.
+Anoop Kunchukuttan
+Pratik Mehta 
+Pushpak Bhattacharyya
+[The IIT Bombay English-Hindi Parallel Corpus](https://www.cfilt.iitb.ac.in/~moses/iitb_en_hi_parallel/lrec2018_iitbparallel.pdf). Language Resources and Evaluation Conference, 2018.
 
 ## License
 
